@@ -1,1 +1,1 @@
-Power BI dashboard created for a simulated Blinkit (India's last-minute delivery app) dataset! This dashboard dives deep into sales performance across different outlet types, item categories, outlet sizes, and customer ratings — all in a clean, filterable layout.
+
